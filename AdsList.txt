@@ -1,3 +1,4 @@
 0.0.0.0 pb.bheestybaulk.top
 0.0.0.0 dangkyrikvip.live
 0.0.0.0 ak.bettentacruela.com
+0.0.0.0 gate.io
