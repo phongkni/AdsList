@@ -3,3 +3,4 @@
 0.0.0.0 bettentacruela.com
 0.0.0.0 ak.bettentacruela.com
 0.0.0.0 gate.io
+0.0.0.0 continuesurf.b-cdn.net
