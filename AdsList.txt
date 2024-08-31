@@ -5,3 +5,4 @@
 0.0.0.0 gate.io
 0.0.0.0 continuesurf.b-cdn.net
 0.0.0.0 azossaudu.com
+0.0.0.0 needbux.com
