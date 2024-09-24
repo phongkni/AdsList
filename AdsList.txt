@@ -7,3 +7,4 @@
 0.0.0.0 azossaudu.com
 0.0.0.0 needbux.com
 0.0.0.0 armiesfurlana.click
+0.0.0.0 whitebit.com
