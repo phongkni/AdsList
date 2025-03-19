@@ -12,3 +12,4 @@
 0.0.0.0 lode88.com
 0.0.0.0 au.draweerodden.com
 0.0.0.0 lode88.ai
+0.0.0.0 dabet.com
