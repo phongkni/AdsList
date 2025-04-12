@@ -15,3 +15,4 @@
 0.0.0.0 dabet.com
 0.0.0.0 chivpelorus.top
 0.0.0.0 bom88.com
+0.0.0.0 tic88.com
