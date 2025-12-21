@@ -19,3 +19,4 @@
 0.0.0.0 okx.com
 0.0.0.0 www.okx.com
 0.0.0.0 top.club
+0.0.0.0 fa88.tv
