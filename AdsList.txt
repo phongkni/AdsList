@@ -21,3 +21,4 @@
 0.0.0.0 top.club
 0.0.0.0 fa88.tv
 0.0.0.0 oxbet.mobi
+0.0.0.0 haywinclub.me
