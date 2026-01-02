@@ -23,3 +23,13 @@
 0.0.0.0 oxbet.mobi
 0.0.0.0 haywinclub.me
 0.0.0.0 haywinclub.me
+0.0.0.0 partian.co
+0.0.0.0 panapardaz.com
+0.0.0.0 favaafzar.com
+0.0.0.0 hostida.com
+0.0.0.0 bahavarit.com
+0.0.0.0 cyberno.ir
+0.0.0.0 cyberland.ir
+0.0.0.0 dpa-server.com
+0.0.0.0 pardispars.com
+0.0.0.0 radmandp.com
