@@ -1,35 +1,35 @@
-0.0.0.0 pb.bheestybaulk.top
-0.0.0.0 dangkyrikvip.live
-0.0.0.0 bettentacruela.com
-0.0.0.0 ak.bettentacruela.com
-0.0.0.0 gate.io
-0.0.0.0 continuesurf.b-cdn.net
-0.0.0.0 azossaudu.com
-0.0.0.0 needbux.com
-0.0.0.0 armiesfurlana.click
-0.0.0.0 whitebit.com
-0.0.0.0 katheds.click
-0.0.0.0 lode88.com
-0.0.0.0 au.draweerodden.com
-0.0.0.0 lode88.ai
-0.0.0.0 dabet.com
-0.0.0.0 chivpelorus.top
-0.0.0.0 bom88.com
-0.0.0.0 tic88.com
-0.0.0.0 okx.com
-0.0.0.0 www.okx.com
-0.0.0.0 top.club
-0.0.0.0 fa88.tv
-0.0.0.0 oxbet.mobi
-0.0.0.0 haywinclub.me
-0.0.0.0 haywinclub.me
-0.0.0.0 partian.co
-0.0.0.0 panapardaz.com
-0.0.0.0 favaafzar.com
-0.0.0.0 hostida.com
-0.0.0.0 bahavarit.com
-0.0.0.0 cyberno.ir
-0.0.0.0 cyberland.ir
-0.0.0.0 dpa-server.com
-0.0.0.0 pardispars.com
-0.0.0.0 radmandp.com
+||pb.bheestybaulk.top^
+||dangkyrikvip.live^
+||bettentacruela.com^
+||ak.bettentacruela.com^
+||gate.io^
+||continuesurf.b-cdn.net^
+||azossaudu.com^
+||needbux.com^
+||armiesfurlana.click^
+||whitebit.com^
+||katheds.click^
+||lode88.com^
+||au.draweerodden.com^
+||lode88.ai^
+||dabet.com^
+||chivpelorus.top^
+||bom88.com^
+||tic88.com^
+||okx.com^
+||www.okx.com^
+||top.club^
+||fa88.tv^
+||oxbet.mobi^
+||haywinclub.me^
+||haywinclub.me^
+||partian.co^
+||panapardaz.com^
+||favaafzar.com^
+||hostida.com^
+||bahavarit.com^
+||cyberno.ir^
+||cyberland.ir^
+||dpa-server.com^
+||pardispars.com^
+||radmandp.com^
